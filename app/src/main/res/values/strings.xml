@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UTSDEMO</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="page1">Untuk Menampilkan Antarmuka Aplikasi</string>
+    <string name="page2">Untuk Meminta Tindakan dari Komponen Aplikasi</string>
+    <string name="page3">Untuk Menjalankan Proses Aplikasi di Belakang Layar</string>
+    <string name="page4">Untuk Komunikasi Antar Activity, Aplikasi, dan Device</string>
+    <string name="page5">Untuk Manajemen Data dan Database</string>
+</resources>
